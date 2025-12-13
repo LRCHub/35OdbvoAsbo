@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ポップスター",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-13T12:12:41.014334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポップスター",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ポップスター_NEE.txt"
+    }
+  ]
+}
